@@ -1,0 +1,282 @@
+{
+  "main": {
+    "name": "Muzammil Makandar",
+    "shortDesc": "I build secure, scalable, and user-friendly web applications with full‑stack expertise.",
+    "titles": [
+      "Full Stack Development",
+      "Frontend Developer",
+      "Cybersecurity Enthusiast"
+    ],
+    "heroImage": "https://i.postimg.cc/Fz4vkjhL/freepik-animated-boy-with-laptop-in-a-bustling-futuristic-1225.jpg",
+    "techStackImages": [
+      "https://img.icons8.com/color/144/000000/react-native.png",
+      "https://img.icons8.com/color/144/000000/tailwind_css.png",
+      "https://img.icons8.com/color/144/000000/javascript--v1.png",
+      "https://img.icons8.com/color/144/000000/python--v1.png"
+    ]
+  },
+  "about": {
+    "aboutImage": "https://i.postimg.cc/8krwjR65/me.jpg",
+    "aboutImageCaption": "< I build & secure digital solutions />",
+    "title": "Full Stack Developer",
+    "about": "I’m a Full Stack Developer based in Bangalore, with a B.Tech in CSE from Sanjay Ghodawat University. Skilled in building responsive web applications and robust backend systems using React, Python, Flask, MySQL, Tailwind, and AWS, I’m passionate about cybersecurity and have hands‑on experience with blockchain and REST APIs. I enjoy tackling real‑world challenges and have taken on leadership roles throughout my academic and professional journey.",
+    "callUrl":"",
+    "resumeUrl": "https://drive.google.com/file/d/1c-o40yLP9Jbqd-sW0mqF6St4HFoPRhtk/view?usp=sharing"
+  },
+  "socials": [
+    {
+      "icon": "FaLinkedin",
+      "link": "https://www.linkedin.com/in/muzammilmakandar/"
+    },
+    {
+      "icon": "FaGithub",
+      "link": "https://github.com/muzammil2406"
+    },
+    {
+      "icon": "FaTwitter",
+      "link": "https://x.com/MuzammilMakand4?t=l5f_qeA2qv2QHDH1sRKHVA&s=09"
+    }
+  ],
+ 
+  "skills": [
+    {
+      "name": "JavaScript",
+      "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
+      "category": "Frontend",
+      "level": 90
+    },
+    {
+      "name": "React",
+      "image": "https://img.icons8.com/color/144/null/react-native.png",
+      "category": "Frontend",
+      "level": 85
+    },
+    {
+      "name": "HTML",
+      "image": "https://img.icons8.com/color/144/html-5--v1.png",
+      "category": "Frontend",
+      "level": 95
+    },
+    {
+      "name": "CSS",
+      "image": "https://img.icons8.com/color/144/css3.png",
+      "category": "Frontend",
+      "level": 90
+    },
+    {
+      "name": "Next.js",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg",
+      "category": "Frontend",
+      "level": 80
+    },
+    {
+      "name": "TypeScript",
+      "image": "https://img.icons8.com/color/144/typescript.png",
+      "category": "Frontend",
+      "level": 75
+    },
+    {
+      "name": "Bootstrap",
+      "image": "https://img.icons8.com/color/144/bootstrap.png",
+      "category": "Frontend",
+      "level": 80
+    },
+    {
+      "name": "Tailwind CSS",
+      "image": "https://img.icons8.com/color/144/tailwindcss.png",
+      "category": "Frontend",
+      "level": 85
+    },
+    {
+      "name": "Node.js",
+      "image": "https://img.icons8.com/color/144/null/nodejs.png",
+      "category": "Backend",
+      "level": 80
+    },
+    {
+      "name": "Express.js",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
+      "category": "Backend",
+      "level": 75
+    },
+    {
+      "name": "PostgreSQL",
+      "image": "https://img.icons8.com/color/144/null/postgreesql.png",
+      "category": "Database",
+      "level": 80
+    },
+    {
+      "name": "MongoDB",
+      "image": "https://img.icons8.com/color/144/null/mongodb.png",
+      "category": "Database",
+      "level": 75
+    },
+    {
+      "name": "AWS",
+      "image": "https://img.icons8.com/color/144/null/amazon-web-services.png",
+      "category": "Cloud",
+      "level": 70
+    },
+    {
+      "name": "Firebase",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "category": "Cloud",
+      "level": 75
+    },
+    {
+      "name": "Git",
+      "image": "https://img.icons8.com/color/144/null/git.png",
+      "category": "Others",
+      "level": 90
+    },
+    {
+      "name": "Python",
+      "image": "https://img.icons8.com/color/144/null/python--v1.png",
+      "category": "Backend",
+      "level": 65
+    },
+    {
+      "name": "Flask",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg",
+      "category": "Backend",
+      "level": 70
+    },
+    {
+      "name": "MySQL",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+      "category": "Database",
+      "level": 80
+    },
+    {
+      "name": "GitHub",
+      "image": "https://img.icons8.com/material-outlined/96/null/github.png",
+      "category": "Others",
+      "level": 90
+    },
+    {
+      "name": "GitLab",
+      "image": "https://img.icons8.com/color/144/null/gitlab.png",
+      "category": "Others",
+      "level": 80
+    },
+    {
+      "name": "Postman",
+      "image": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png",
+      "category": "Others",
+      "level": 85
+    },
+    {
+      "name": "Netlify",
+      "image": "https://cdn.worldvectorlogo.com/logos/netlify.svg",
+      "category": "Others",
+      "level": 75
+    },
+    {
+      "name": "Vercel",
+      "image": "https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo.png",
+      "category": "Others",
+      "level": 75
+    }
+
+
+  ],
+
+  "projects": [
+    {
+      "name": "TrustPay Blockchain Payment System",
+      "techstack": "Solidity, React, Ethereum, Web3.js",
+      "category": "Blockchain",
+      "image": "https://i.postimg.cc/yNB1M5g6/DAPP.png",
+      "links": {
+        "code": "https://github.com/muzammil2406/Blockchain-DAPP",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Mudda Debate Platform",
+      "techstack": "React.js, Flask, TailwindCSS, PostgreSQL",
+      "category": "Full Stack",
+      "image": "https://i.postimg.cc/jqvb81MQ/Mudda-Enhanced-Centered.png",
+      "links": {
+        "code": "https://github.com/muzammilmakandar/mudda",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Jazztrack",
+      "techstack": "React.js, Flask, TailwindCSS, MySQL",
+      "category": "Full Stack",
+      "image": "https://i.postimg.cc/9FgbD5t0/Jazz.png",
+      "links": {
+        "code": "https://github.com/muzammil2406/Jazztrack",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Lawyer Management System",
+      "techstack": "Next.js, Nest.js, TailwindCSS, MySQL, Git, GitHub",
+      "category": "Full Stack",
+      "image": "https://i.postimg.cc/L8N2CVz7/Lawyer.png",
+      "links": {
+        "code": "https://github.com/muzammil2406/Lawyer-Management-System",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Portfolio Website",
+      "techstack": "HTML, CSS, Javascript, Bootstrap, Firebase",
+      "category": "Full Stack",
+      "image": "https://i.postimg.cc/BvbjdwwK/Portfolio.png",
+      "links": {
+        "code": "https://github.com/muzammil2406/My_Portfolio",
+        "video": "",
+        "visit": ""
+      }
+    }
+  ],
+  "educations": [
+    {
+      "institute": "🏫 Sanjay Ghodawat University, Kolhapur",
+      "degree": "🎓 B.Tech in Computer Science and Engineering",
+      "duration": "📅 Dec 2021 - June 2024",
+      "roles": [
+        "👥 Member of ASCES Committee"
+      ],
+      "desc": "🎯 Graduated with a CGPA of 7.25.\n🧠 Focused on programming, data structures OS, DBMS, and full-stack development.\n🔗 Worked on real-world projects including blockchain and responsive web platforms.\n🧑‍💼 Secretary of ASCES Committee."
+    },
+    {
+      "institute": "🏫 Sharad Institute of Technology Polytechnic, Yadrav",
+      "degree": "📘 Diploma in Information Technology",
+      "duration": "📅 Aug 2018 - Sep 2021",
+      "roles": [
+        "👨‍🎓 Class Representative"
+      ],
+      "desc": "🏆 Graduated with 84.38% marks.\n🛠️ Laid strong foundation in software and network basics."
+    }
+  ],
+  "experiences": [
+    {
+      "company": "🏢 Anthropic Software Pvt. Ltd.",
+      "position": "🧑‍💻 Software Development Intern",
+      "duration": "📅 Feb 2024 - Aug 2024",
+      "roles": [
+        "👨‍💻 Software Developer Intern"
+      ],
+      "desc": "⚙️ Built and optimized Flask APIs and PostgreSQL queries.\n🔄 Worked on microservices and improved team communication processes.\n🧱 Participated in full-stack feature delivery and backend logic design."
+    },
+    {
+      "company": "🏢 33Kuber Advisory India LLP",
+      "position": "💻 Full Stack Developer",
+      "duration": "📅 Sep 2024 - Present",
+      "roles": [
+        "👨‍💻 Full Stack Developer"
+      ],
+      "desc": "🔧 Developing and maintaining scalable applications using React, Flask, and MySQL.\n🌐 Implementing global search, pagination, and responsive UI in movie-based projects.\n🤝 Contributing to team collaboration, code reviews, and new feature design."
+    }
+  ]
+}
+
