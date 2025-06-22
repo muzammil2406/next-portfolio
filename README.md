@@ -1,4 +1,5 @@
-![Portfolio](![sfdasf](https://github.com/user-attachments/assets/b862e2b9-2944-4633-8438-fa359751e589)
+![Portfolio](![sfdasf](![image](https://github.com/user-attachments/assets/7e65651b-0995-432d-a2cb-dc2b02fb1e53)
+)
 )
 
 <div align="center">
