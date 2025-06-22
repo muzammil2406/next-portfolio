@@ -21,29 +21,36 @@ const InteractiveTimeline: React.FC<InteractiveTimelineProps> = ({ timelineItems
   const timelineRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
+    const node = timelineRef.current;
+
+    if (!node) return;
+
     const observer = new IntersectionObserver(
-      ([entry]) => setIsVisible(entry.isIntersecting),
+      ([entry]) => {
+        setIsVisible(entry.isIntersecting);
+      },
       { threshold: 0.3 }
     );
-
-    if (timelineRef.current) observer.observe(timelineRef.current);
+    observer.observe(node);
 
     return () => {
-      if (timelineRef.current) observer.unobserve(timelineRef.current);
+      observer.unobserve(node);
     };
   }, []);
 
   // Function to render description with line breaks
-  const renderDescription = (description: string) => {
-    return description.split('\n').map((line, index) => (
+  const renderDescription = (description: string) =>
+    description.split('\n').map((line, index) => (
       <p key={index} className="text-gray-600 dark:text-gray-300 mb-3">
         {line}
       </p>
     ));
-  };
 
   return (
-    <div ref={timelineRef} className={`py-12 transition-opacity duration-1000 ${isVisible ? 'opacity-100' : 'opacity-0'}`}>
+    <div
+      ref={timelineRef}
+      className={`py-12 transition-opacity duration-1000 ${isVisible ? 'opacity-100' : 'opacity-0'}`}
+    >
       <div className="flex flex-col md:flex-row gap-8 mx-auto max-w-6xl px-4">
         {/* Sidebar with Years */}
         <div className="md:w-1/4">
@@ -58,7 +65,9 @@ const InteractiveTimeline: React.FC<InteractiveTimelineProps> = ({ timelineItems
                     : 'hover:bg-gray-100 dark:hover:bg-gray-800'
                 }`}
               >
-                <span className={`text-2xl mr-3 ${activeIndex === index ? 'scale-125' : 'group-hover:scale-110'} transition-transform`}>
+                <span
+                  className={`text-2xl mr-3 ${activeIndex === index ? 'scale-125' : 'group-hover:scale-110'} transition-transform`}
+                >
                   {item.icon || '📌'}
                 </span>
                 <div className="text-left">
@@ -89,9 +98,7 @@ const InteractiveTimeline: React.FC<InteractiveTimelineProps> = ({ timelineItems
                   </span>
                 </div>
 
-                <div className="mb-6">
-                  {renderDescription(item.description)}
-                </div>
+                <div className="mb-6">{renderDescription(item.description)}</div>
 
                 {item.type === 'Experience' && item.tech && (
                   <div className="mt-4">
@@ -118,3 +125,4 @@ const InteractiveTimeline: React.FC<InteractiveTimelineProps> = ({ timelineItems
 };
 
 export default InteractiveTimeline;
+
