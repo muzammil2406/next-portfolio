@@ -167,32 +167,32 @@
     },
     {
       "name": "LangGraph",
-      "image": "https://cdn.simpleicons.org/langgraph",
-      "category": "AI / ML",
+      "image": "https://img.icons8.com/color/144/null/flow-chart.png",
+      "category": "AI/ML",
       "level": 80
     },
     {
       "name": "Gemini",
       "image": "https://img.icons8.com/color/144/null/gemini.png",
-      "category": "AI / ML",
+      "category": "AI/ML",
       "level": 85
     },
     {
       "name": "RAG / Vector Search",
       "image": "https://img.icons8.com/color/144/null/brain.png",
-      "category": "AI / ML",
+      "category": "AI/ML",
       "level": 80
     },
     {
       "name": "Genkit",
       "image": "https://img.icons8.com/color/144/null/flow.png",
-      "category": "AI / ML",
+      "category": "AI/ML",
       "level": 78
     },
     {
       "name": "Groq (Llama)",
       "image": "https://img.icons8.com/color/144/null/lightning-bolt.png",
-      "category": "AI / ML",
+      "category": "AI/ML",
       "level": 82
     },
     {
@@ -369,42 +369,42 @@
   ],
   "educations": [
     {
-      "institute": "🏫 Sanjay Ghodawat University, Kolhapur",
-      "degree": "🎓 B.Tech in Computer Science and Engineering",
-      "duration": "📅 Dec 2021 - June 2024",
+      "institute": "Sanjay Ghodawat University, Kolhapur",
+      "degree": "B.Tech in Computer Science and Engineering",
+      "duration": "Dec 2021 - June 2024",
       "roles": [
-        "👥 Member of ASCES Committee"
+        "Member of ASCES Committee"
       ],
-      "desc": "🎯 Graduated with a CGPA of 7.25.\n🧠 Focused on programming, data structures OS, DBMS, and full-stack development.\n🔗 Worked on real-world projects including blockchain and responsive web platforms.\n🧑‍💼 Secretary of ASCES Committee."
+      "desc": "Graduated with a CGPA of 7.25.\nFocused on programming, data structures, OS, DBMS, and full-stack development.\nWorked on real-world projects including blockchain and responsive web platforms.\nSecretary of ASCES Committee."
     },
     {
-      "institute": "🏫 Sharad Institute of Technology Polytechnic, Yadrav",
-      "degree": "📘 Diploma in Information Technology",
-      "duration": "📅 Aug 2018 - Sep 2021",
+      "institute": "Sharad Institute of Technology Polytechnic, Yadrav",
+      "degree": "Diploma in Information Technology",
+      "duration": "Aug 2018 - Sep 2021",
       "roles": [
-        "👨‍🎓 Class Representative"
+        "Class Representative"
       ],
-      "desc": "🏆 Graduated with 84.38% marks.\n🛠️ Laid strong foundation in software and network basics."
+      "desc": "Graduated with 84.38% marks.\nLaid a strong foundation in software and network basics."
     }
   ],
   "experiences": [
     {
-      "company": "🏢 Anthropic Software Pvt. Ltd.",
-      "position": "🧑‍💻 Software Development Intern",
-      "duration": "📅 Feb 2024 - Aug 2024",
+      "company": "Anthropic Software Pvt. Ltd.",
+      "position": "Software Development Intern",
+      "duration": "Feb 2024 - Aug 2024",
       "roles": [
-        "👨‍💻 Software Developer Intern"
+        "Software Developer Intern"
       ],
-      "desc": "⚙️ Built and optimized Flask APIs and PostgreSQL queries.\n🔄 Worked on microservices and improved team communication processes.\n🧱 Participated in full-stack feature delivery and backend logic design."
+      "desc": "Built and optimized Flask APIs and PostgreSQL queries.\nWorked on microservices and improved team communication processes.\nParticipated in full-stack feature delivery and backend logic design."
     },
     {
-      "company": "🏢 33Kuber Advisory India LLP",
-      "position": "💻 Full Stack Developer",
-      "duration": "📅 Sep 2024 - Present",
+      "company": "33Kuber Advisory India LLP",
+      "position": "Full Stack Developer",
+      "duration": "Sep 2024 - Present",
       "roles": [
-        "👨‍💻 Full Stack Developer"
+        "Full Stack Developer"
       ],
-      "desc": "🔧 Developing and maintaining scalable applications using React, Flask, and MySQL.\n🌐 Implementing global search, pagination, and responsive UI in movie-based projects.\n🤝 Contributing to team collaboration, code reviews, and new feature design."
+      "desc": "Developing and maintaining scalable applications using React, Flask, and MySQL.\nImplementing global search, pagination, and responsive UI in movie-based projects.\nContributing to team collaboration, code reviews, and new feature design."
     }
   ]
 }
