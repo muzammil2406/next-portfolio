@@ -4,8 +4,7 @@
     "shortDesc": "I build secure, scalable, and user-friendly full-stack applications powered by AI.",
     "titles": [
       "Full Stack Development",
-      "AI Engineering",
-      "Cybersecurity Enthusiast"
+      "AI Engineering"
     ],
     "heroImage": "https://i.postimg.cc/Fz4vkjhL/freepik-animated-boy-with-laptop-in-a-bustling-futuristic-1225.jpg",
     "techStackImages": [
@@ -404,7 +403,7 @@
       "roles": [
         "Full Stack Developer"
       ],
-      "desc": "Developing and maintaining scalable applications using React, Flask, and MySQL.\nImplementing global search, pagination, and responsive UI in movie-based projects.\nContributing to team collaboration, code reviews, and new feature design."
+      "desc": "Developing and maintaining scalable full-stack applications using React, Next.js, NestJS, TypeScript, and MySQL.\nBuilding a fleet management system with real-time vehicle tracking, trip history, and maintenance scheduling.\nDeveloping hiring and recruitment platforms with applicant tracking, candidate filtering, and interview scheduling.\nImplementing legal action management systems with case tracking, document workflows, and compliance reporting.\nBuilding timesheet applications with role-based access, project-based time logging, and approval workflows.\nImplementing global search, pagination, and responsive UI in movie-based projects.\nContributing to team collaboration, code reviews, and new feature design."
     }
   ]
 }
