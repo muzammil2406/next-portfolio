@@ -1,25 +1,25 @@
 {
   "main": {
     "name": "Muzammil Makandar",
-    "shortDesc": "I build secure, scalable, and user-friendly web applications with full‑stack expertise.",
+    "shortDesc": "I build secure, scalable, and user-friendly full-stack applications powered by AI.",
     "titles": [
       "Full Stack Development",
-      "Frontend Development",
+      "AI Engineering",
       "Cybersecurity Enthusiast"
     ],
     "heroImage": "https://i.postimg.cc/Fz4vkjhL/freepik-animated-boy-with-laptop-in-a-bustling-futuristic-1225.jpg",
     "techStackImages": [
       "https://img.icons8.com/color/144/000000/react-native.png",
-      "https://img.icons8.com/color/144/000000/tailwind_css.png",
-      "https://img.icons8.com/color/144/000000/javascript--v1.png",
-      "https://img.icons8.com/color/144/000000/python--v1.png"
+      "https://img.icons8.com/color/144/000000/typescript.png",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg",
+      "https://img.icons8.com/color/144/000000/postgreesql.png"
     ]
   },
   "about": {
     "aboutImage": "https://i.postimg.cc/8krwjR65/me.jpg",
     "aboutImageCaption": "< I build & secure digital solutions />",
     "title": "Full Stack Developer",
-    "about": "I’m a Full Stack Developer based in Bangalore, with a B.Tech in CSE from Sanjay Ghodawat University. Skilled in building responsive web applications and robust backend systems using React, Python, Flask, MySQL, Tailwind, and AWS, I’m passionate about cybersecurity and have hands‑on experience with blockchain and REST APIs. I enjoy tackling real‑world challenges and have taken on leadership roles throughout my academic and professional journey.",
+    "about": "I’m a Full Stack Developer and AI Engineer based in Bangalore, with a B.Tech in CSE from Sanjay Ghodawat University. I build production-grade web apps with Next.js, React, TypeScript, and Tailwind CSS, backed by NestJS, Node.js, PostgreSQL, MongoDB, and Redis. I design and ship AI features end-to-end — agentic systems with LangGraph, custom RAG pipelines, and LLM integrations (Groq, Gemini) via Genkit — deployed on Vercel and Render with Docker. I’m passionate about cybersecurity and enjoy tackling real‑world challenges.",
     "callUrl":"",
     "resumeUrl": "https://drive.google.com/file/d/1c-o40yLP9Jbqd-sW0mqF6St4HFoPRhtk/view?usp=sharing"
   },
@@ -43,13 +43,25 @@
       "name": "JavaScript",
       "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
       "category": "Frontend",
-      "level": 90
+      "level": 92
+    },
+    {
+      "name": "TypeScript",
+      "image": "https://img.icons8.com/color/144/null/typescript.png",
+      "category": "Frontend",
+      "level": 85
     },
     {
       "name": "React",
       "image": "https://img.icons8.com/color/144/null/react-native.png",
       "category": "Frontend",
-      "level": 85
+      "level": 90
+    },
+    {
+      "name": "NextJS",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg",
+      "category": "Frontend",
+      "level": 88
     },
     {
       "name": "HTML",
@@ -61,41 +73,53 @@
       "name": "CSS",
       "image": "https://img.icons8.com/color/144/css3.png",
       "category": "Frontend",
-      "level": 90
-    },
-    {
-      "name": "Next.js",
-      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg",
-      "category": "Frontend",
-      "level": 80
-    },
-    {
-      "name": "TypeScript",
-      "image": "https://img.icons8.com/color/144/typescript.png",
-      "category": "Frontend",
-      "level": 75
-    },
-    {
-      "name": "Bootstrap",
-      "image": "https://img.icons8.com/color/144/bootstrap.png",
-      "category": "Frontend",
-      "level": 80
+      "level": 92
     },
     {
       "name": "Tailwind CSS",
       "image": "https://img.icons8.com/color/144/tailwindcss.png",
       "category": "Frontend",
-      "level": 85
+      "level": 88
+    },
+    {
+      "name": "Redux",
+      "image": "https://img.icons8.com/color/144/null/redux.png",
+      "category": "Frontend",
+      "level": 80
     },
     {
       "name": "Node.js",
       "image": "https://img.icons8.com/color/144/null/nodejs.png",
       "category": "Backend",
-      "level": 80
+      "level": 88
     },
     {
-      "name": "Express.js",
+      "name": "NestJS",
+      "image": "https://img.icons8.com/color/144/null/nestjs.png",
+      "category": "Backend",
+      "level": 82
+    },
+    {
+      "name": "ExpressJS",
       "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
+      "category": "Backend",
+      "level": 82
+    },
+    {
+      "name": "Socket.IO",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg",
+      "category": "Backend",
+      "level": 78
+    },
+    {
+      "name": "Python",
+      "image": "https://img.icons8.com/color/144/null/python--v1.png",
+      "category": "Backend",
+      "level": 72
+    },
+    {
+      "name": "Docker",
+      "image": "https://img.icons8.com/color/144/null/docker.png",
       "category": "Backend",
       "level": 75
     },
@@ -103,13 +127,73 @@
       "name": "PostgreSQL",
       "image": "https://img.icons8.com/color/144/null/postgreesql.png",
       "category": "Database",
-      "level": 80
+      "level": 88
+    },
+    {
+      "name": "Prisma",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg",
+      "category": "Database",
+      "level": 85
     },
     {
       "name": "MongoDB",
       "image": "https://img.icons8.com/color/144/null/mongodb.png",
       "category": "Database",
-      "level": 75
+      "level": 80
+    },
+    {
+      "name": "MySQL",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+      "category": "Database",
+      "level": 82
+    },
+    {
+      "name": "Redis",
+      "image": "https://img.icons8.com/color/144/null/redis.png",
+      "category": "Database",
+      "level": 78
+    },
+    {
+      "name": "Supabase",
+      "image": "https://img.icons8.com/color/144/null/supabase.png",
+      "category": "Database",
+      "level": 78
+    },
+    {
+      "name": "Firebase",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "category": "Database",
+      "level": 80
+    },
+    {
+      "name": "LangGraph",
+      "image": "https://cdn.simpleicons.org/langgraph",
+      "category": "AI / ML",
+      "level": 80
+    },
+    {
+      "name": "Gemini",
+      "image": "https://img.icons8.com/color/144/null/gemini.png",
+      "category": "AI / ML",
+      "level": 85
+    },
+    {
+      "name": "RAG / Vector Search",
+      "image": "https://img.icons8.com/color/144/null/brain.png",
+      "category": "AI / ML",
+      "level": 80
+    },
+    {
+      "name": "Genkit",
+      "image": "https://img.icons8.com/color/144/null/flow.png",
+      "category": "AI / ML",
+      "level": 78
+    },
+    {
+      "name": "Groq (Llama)",
+      "image": "https://img.icons8.com/color/144/null/lightning-bolt.png",
+      "category": "AI / ML",
+      "level": 82
     },
     {
       "name": "AWS",
@@ -118,10 +202,10 @@
       "level": 70
     },
     {
-      "name": "Firebase",
-      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "name": "Vercel",
+      "image": "https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo.png",
       "category": "Cloud",
-      "level": 75
+      "level": 85
     },
     {
       "name": "Git",
@@ -130,55 +214,23 @@
       "level": 90
     },
     {
-      "name": "Python",
-      "image": "https://img.icons8.com/color/144/null/python--v1.png",
-      "category": "Backend",
-      "level": 65
-    },
-    {
-      "name": "Flask",
-      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg",
-      "category": "Backend",
-      "level": 70
-    },
-    {
-      "name": "MySQL",
-      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
-      "category": "Database",
-      "level": 80
-    },
-    {
       "name": "GitHub",
       "image": "https://img.icons8.com/material-outlined/96/null/github.png",
       "category": "Others",
       "level": 90
     },
     {
-      "name": "GitLab",
-      "image": "https://img.icons8.com/color/144/null/gitlab.png",
+      "name": "Jest",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg",
       "category": "Others",
-      "level": 80
+      "level": 78
     },
     {
       "name": "Postman",
       "image": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png",
       "category": "Others",
       "level": 85
-    },
-    {
-      "name": "Netlify",
-      "image": "https://cdn.worldvectorlogo.com/logos/netlify.svg",
-      "category": "Others",
-      "level": 75
-    },
-    {
-      "name": "Vercel",
-      "image": "https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo.png",
-      "category": "Others",
-      "level": 75
     }
-
-
   ],
 
   "projects": [
@@ -235,6 +287,83 @@
         "code": "https://github.com/muzammil2406/My_Portfolio",
         "video": "",
         "visit": ""
+      }
+    },
+    {
+      "name": "Nova — AI Customer-Support Agent",
+      "techstack": "Next.js 14, NestJS, Socket.IO, LangGraph, Groq (Llama 3.3-70B), PostgreSQL + pgvector, MongoDB, Redis, Docker",
+      "category": "AI",
+      "image": "https://image.thum.io/get/width/1200/https://ai-support-agent-rho.vercel.app",
+      "links": {
+        "code": "https://github.com/muzammil2406/ai-support-agent",
+        "video": "",
+        "visit": "https://ai-support-agent-rho.vercel.app"
+      }
+    },
+    {
+      "name": "RAG Document Intelligence",
+      "techstack": "Next.js 14, NestJS, PostgreSQL (Neon), Gemini Embeddings, Groq, pdf-parse, JWT",
+      "category": "AI",
+      "image": "https://image.thum.io/get/width/1200/https://rag-doc-intelligence-vercel.vercel.app",
+      "links": {
+        "code": "https://github.com/muzammil2406/rag-doc-intelligence",
+        "video": "",
+        "visit": "https://rag-doc-intelligence-vercel.vercel.app"
+      }
+    },
+    {
+      "name": "AI Job Application Tracker",
+      "techstack": "Next.js (App Router), TypeScript, NestJS, Prisma, PostgreSQL (Neon), Groq (Llama 3), Tailwind CSS",
+      "category": "AI",
+      "image": "https://image.thum.io/get/width/1200/https://resume-job-ai.vercel.app",
+      "links": {
+        "code": "https://github.com/muzammil2406/ai-job-tracker",
+        "video": "",
+        "visit": "https://resume-job-ai.vercel.app"
+      }
+    },
+    {
+      "name": "TaskZen — AI Task Management",
+      "techstack": "Next.js, Gemini, Genkit, Firebase (Auth + Firestore), Tailwind CSS, Jest",
+      "category": "AI",
+      "image": "https://image.thum.io/get/width/1200/https://taskflow-three-delta.vercel.app",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": "https://taskflow-three-delta.vercel.app"
+      }
+    },
+    {
+      "name": "Codebase Archaeologist",
+      "techstack": "Next.js 15.5, React 18.3, TypeScript, Tailwind + shadcn/ui, Genkit + Gemini, Firebase, Redux Toolkit, GitHub API",
+      "category": "AI",
+      "image": "https://image.thum.io/get/width/1200/https://codex-aidev.vercel.app",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": "https://codex-aidev.vercel.app"
+      }
+    },
+    {
+      "name": "FinTrack Pro",
+      "techstack": "Next.js 15.5, TypeScript, shadcn/ui, Supabase (PostgreSQL + RLS), Genkit + Gemini, Recharts, Jest",
+      "category": "AI",
+      "image": "https://image.thum.io/get/width/1200/https://fintrackpro-ai.vercel.app",
+      "links": {
+        "code": "https://github.com/muzammil2406/fintrackpro-ai",
+        "video": "",
+        "visit": "https://fintrackpro-ai.vercel.app"
+      }
+    },
+    {
+      "name": "AI Notes KB App",
+      "techstack": "NestJS 10, Next.js 14.1, TypeScript 5.3, React 18, Tailwind CSS, PostgreSQL (Neon) + Prisma, Groq (Llama 3.3-70B), JWT auth",
+      "category": "AI",
+      "image": "https://image.thum.io/get/width/1200/https://ai-notes-kb-app.vercel.app",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": "https://ai-notes-kb-app.vercel.app"
       }
     }
   ],

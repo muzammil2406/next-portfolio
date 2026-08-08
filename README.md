@@ -1,6 +1,4 @@
-![Portfolio](https://res.cloudinary.com/dxbpsbhbg/image/upload/v1750578636/My_Portfolio_qd9yp3.png)
-)
-)
+![Portfolio](https://res.cloudinary.com/lifecodes/image/upload/v1678684352/Portfolio/l7b1gz61rh3hgoz5qzta.png)
 
 <div align="center">
   &middot;
@@ -11,7 +9,7 @@
 
   <p align="center">
     <img src="https://img.shields.io/github/forks/muzammil2406/next-portfolio?style=for-the-badge" />
-  <a href="https://muzammil-dev.netlify.app">
+  <a href="https://muzammil-dev.vercel.app">
     <img src="https://img.shields.io/static/v1?label=&message=View%20Demo&style=for-the-badge&color=black&logo=vercel" />
   </a>
 </p>

@@ -61,9 +61,9 @@ const Skill = ({ name, image, level = 80 }: SkillProps) => {
           height={100}
           className={`h-12 w-12 md:h-14 md:w-14 object-contain ${
             theme === "dark" &&
-            (name === "GitHub" || name === "Vercel" || name === "NextJS" || name === "ExpressJS"
+            ["GitHub", "Vercel", "NextJS", "ExpressJS", "Prisma", "Socket.IO", "LangGraph", "Jest"].includes(name)
               ? "invert"
-              : "invert-0")
+              : "invert-0"
           }`}
           src={image}
         />

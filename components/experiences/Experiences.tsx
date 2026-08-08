@@ -5,7 +5,6 @@ import { ViewAll } from "../projects/Projects";
 import SectionWrapper from "../SectionWrapper";
 import InteractiveTimeline from "./InteractiveTimeline";
 import { FaBriefcase, FaGraduationCap } from "react-icons/fa"; // ✅ Import icons
-// import ExperienceCard from "./ExperienceCard"; // Keep this if you still use it
 
 interface Props {
   experienceData: experience[];
@@ -68,10 +67,7 @@ const Experiences = ({ experienceData, educationData }: Props) => {
           <div className="left-6 md:left-1/2 absolute border-opacity-20 border-gray-400 dark:border-grey-800 h-full border"></div>
 
           {viewAll
-            ? (show === "Work Experience" ? experiences : educations).map((e, i) => (
-                // @ts-ignore
-                <ExperienceCard key={i} {...e} index={i} />
-              ))
+            ? null
             : null}
         </div>
       </div>
